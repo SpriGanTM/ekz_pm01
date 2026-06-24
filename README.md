@@ -31,9 +31,6 @@
 - **Backend:** PHP 7.4+ (PDO)
 - **Frontend:** HTML5, CSS3 (адаптивная вёрстка)
 - **База данных:** MySQL (phpMyAdmin)
-- **Веб-сервер:** Nginx + PHP-FPM (хостинг Hestia)
 - **Контроль версий:** Git, GitHub
 
 ---
-
-## Структура проекта
